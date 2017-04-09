@@ -1,0 +1,18 @@
+{
+  "name": "shrink-spaces",
+  "main": "./lib/shrink-spaces",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "shrink-spaces:shrink"
+  },
+  "repository": "https://github.com/sm514a/my-shrink-spaces",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
